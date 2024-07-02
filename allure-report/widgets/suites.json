@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"6c30f69fd088855023fd7f6838993a1c","name":"tests-examples/demo-todo-app.spec.js","statistic":{"failed":0,"broken":0,"skipped":0,"passed":24,"unknown":0,"total":24}},{"uid":"5824e3d81b6be10203ba3b92d05aae43","name":"tests/example.spec.js","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}}]}
